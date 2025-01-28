@@ -35,8 +35,8 @@ Diseño de un dashboard interactivo integrando análisis de sentimientos y predi
 ✨ **Estoy lista para contribuir en proyectos desafiantes donde los datos se conviertan en herramientas estratégicas para tomar decisiones.**  
 
 📫 **Contáctame:**  
-- **Correo:** [jaraclaudia@gmail.com](mailto:jaraclaudia@gmail.com)  
-- **LinkedIn:** [Claudia Jara](https://www.linkedin.com/in/claudia-jara-1517361a5/)  
+- **Correo:** [jaraclaudia892@gmail.com](mailto:jaraclaudia892@gmail.com)  
+- **LinkedIn:** [Claudia Jara](https://www.linkedin.com/in/claudia-jara-ya%C3%B1ez-1517361a5/)  
 
 <!---
 claujara1975/claujara1975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
