@@ -39,7 +39,7 @@ Diseño de un dashboard interactivo integrando análisis de sentimientos y predi
 - **LinkedIn:** [Claudia Jara](https://www.linkedin.com/in/claudia-jara-ya%C3%B1ez-1517361a5/)
 
 ### 📄 **Currículos**  
-- **CV Analista / BI:** [Resume_Claudia Jara_Data Analyst](https://drive.google.com/file/d/1EeDGEk2tGwFYAiQWBRinF8dwLlmv_06g/view?usp=drive_link)  
+- **CV Analista / BI:** [Resume_Claudia Jara_Data Analyst](https://drive.google.com/file/d/1KZRRZYvMZvDLu77UrDk7_9LwHI-_F_TD/view?usp=sharing)  
 - **CV Científica de Datos:** [Resume_Claudia Jara_Data Scientist](https://drive.google.com/file/d/16uBF7BQeXBQiZB7XXzyBiDpDEYELGE2k/view?usp=drive_link)
 
 <!---
