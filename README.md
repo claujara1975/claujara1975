@@ -1,45 +1,77 @@
-# 👋 Hola, soy Claudia Jara (@claujara1975)  
+# 👋 Hola, soy Claudia Jara (@claujara1975)
 
-✨ **Analista de datos apasionada por transformar información en insights accionables.**  
+✨ **Analista de Datos Junior con formación en Ciencia de Datos y una sólida base matemática.**
 
-Durante mi formación en Henry, desarrollé habilidades técnicas en:  
-🐍 **Python** | 🛠️ **SQL** | 📊 **Power BI** | 🤖 **Machine Learning**  
+Me apasiona transformar datos en información útil para la toma de decisiones mediante análisis exploratorio, visualización de datos y diseño de indicadores.
 
-Complementé estas habilidades con mi experiencia previa en matemáticas, creando soluciones analíticas para resolver problemas reales y optimizar procesos de negocio.  
+Durante mi formación en Henry desarrollé habilidades técnicas en:
 
----
+🐍 **Python** | 🛠️ **SQL** | 📊 **Power BI** | 🤖 **Machine Learning**
 
-### 🎓 **Mi experiencia en Henry**  
-Adquirí competencias sólidas en:  
-📈 **Análisis de datos** | 🧠 **Ciencia de datos** | 📂 **Desarrollo de proyectos**  
-
-Destaco mi capacidad para:  
-- Colaborar en equipos multidisciplinarios.  
-- Aplicar metodologías ágiles (Scrum).  
-- Diseñar productos analíticos enfocados en objetivos específicos.  
+Complementé estas habilidades con mi experiencia en matemáticas, aplicando pensamiento lógico y análisis estructurado para resolver problemas mediante datos.
 
 ---
 
-### 🎯 **Proyectos destacados**  
-**Proyecto_CineSugerencias:**  
-Desarrollo de un sistema de recomendación de películas con FastAPI, abordando ETL, EDA, modelado y despliegue de una API funcional para una start-up de streaming.  
+### 🎓 Mi experiencia en Henry
 
-**Análisis del acceso a internet en Argentina:**  
-Exploración de datos históricos para analizar el crecimiento en accesos por tecnología, definición de KPIs y generación de recomendaciones estratégicas.  
+Adquirí competencias sólidas en:
 
-**Expansión de Corner Bakery Café (Datanova):**  
-Diseño de un dashboard interactivo integrando análisis de sentimientos y predicciones de crecimiento económico, en colaboración con un equipo multidisciplinario.  
+📈 **Análisis de datos** | 🧠 **Ciencia de datos** | 📂 **Desarrollo de proyectos**
+
+Destaco mi capacidad para:
+
+* Colaborar en equipos multidisciplinarios.
+* Aplicar metodologías ágiles (Scrum).
+* Analizar información y comunicar resultados de forma clara.
+* Diseñar soluciones orientadas a la toma de decisiones.
 
 ---
 
-✨ **Estoy lista para contribuir en proyectos desafiantes donde los datos se conviertan en herramientas estratégicas para tomar decisiones.**  
+### 🎯 Proyectos destacados
 
-📫 **Contáctame:**  
-- **Correo:** [jaraclaudia892@gmail.com](mailto:jaraclaudia892@gmail.com)  
-- **LinkedIn:** [Claudia Jara](https://www.linkedin.com/in/claudia-jara-ya%C3%B1ez-1517361a5/)
+### 🌐 ConectandoArgentina
 
+Análisis del acceso a internet en Argentina para identificar brechas de conectividad y oportunidades de mejora.
 
-<!---
-claujara1975/claujara1975 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* Analicé indicadores de conectividad por provincia.
+* Detecté patrones y valores atípicos mediante análisis exploratorio.
+* Diseñé KPIs para monitorear la evolución del acceso a internet.
+* Construí dashboards interactivos en Power BI.
+
+🔗 **Repositorio:** [ConectandoArgentina](LINK)
+
+---
+
+### 🎬 CineSugerencias
+
+Sistema de recomendación de películas desarrollado con Python y FastAPI.
+
+* Implementé procesos ETL y análisis exploratorio de datos.
+* Construí un sistema de recomendación basado en similitud.
+* Desarrollé una API para generar recomendaciones personalizadas.
+* Desplegué la solución utilizando Render.
+
+🔗 **Repositorio:** [CineSugerencias](LINK)
+
+---
+
+### ☕ Datanova
+
+Proyecto grupal orientado al análisis de datos para identificar oportunidades de expansión comercial.
+
+* Analicé datos de Yelp, Google Maps y variables demográficas.
+* Participé en la integración de fuentes y procesos ETL.
+* Colaboré en dashboards y visualizaciones para comunicar hallazgos.
+* Apoyé la identificación de ubicaciones con potencial de crecimiento.
+
+🔗 **Repositorio:** [Datanova](LINK)
+
+---
+
+✨ **Me interesa participar en proyectos donde los datos se conviertan en herramientas para comprender problemas, generar insights y apoyar la toma de decisiones.**
+
+📫 **Contáctame:**
+
+* 📧 **Correo:** [jaraclaudia892@gmail.com](mailto:jaraclaudia892@gmail.com)
+* 💼 **LinkedIn:** [Claudia Jara](https://www.linkedin.com/in/claudia-jara-ya%C3%B1ez-1517361a5/)
+
