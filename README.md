@@ -38,7 +38,7 @@ Análisis del acceso a internet en Argentina para identificar brechas de conecti
 * Diseñé KPIs para monitorear la evolución del acceso a internet.
 * Construí dashboards interactivos en Power BI.
 
-🔗 **Repositorio:** [ConectandoArgentina](LINK)
+🔗 **Repositorio:** [ConectandoArgentina]((https://github.com/claujara1975/Proyecto_ConectandoArgentina.git))
 
 ---
 
@@ -51,7 +51,7 @@ Sistema de recomendación de películas desarrollado con Python y FastAPI.
 * Desarrollé una API para generar recomendaciones personalizadas.
 * Desplegué la solución utilizando Render.
 
-🔗 **Repositorio:** [CineSugerencias](LINK)
+🔗 **Repositorio:** [CineSugerencias]((https://github.com/claujara1975/Proyecto_CineSugerencias.git))
 
 ---
 
@@ -64,7 +64,7 @@ Proyecto grupal orientado al análisis de datos para identificar oportunidades d
 * Colaboré en dashboards y visualizaciones para comunicar hallazgos.
 * Apoyé la identificación de ubicaciones con potencial de crecimiento.
 
-🔗 **Repositorio:** [Datanova](LINK)
+🔗 **Repositorio:** [Datanova]((https://github.com/claujara1975/datapt11_pf_grupo02.git))
 
 ---
 
