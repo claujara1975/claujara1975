@@ -4,41 +4,40 @@
 
 Me apasiona transformar datos en información útil para la toma de decisiones mediante análisis exploratorio, visualización de datos y diseño de indicadores.
 
-Durante mi formación en Henry desarrollé habilidades técnicas en:
-
-🐍 **Python** | 🛠️ **SQL** | 📊 **Power BI** | 🤖 **Machine Learning**
-
-Complementé estas habilidades con mi experiencia en matemáticas, aplicando pensamiento lógico y análisis estructurado para resolver problemas mediante datos.
+Durante mi formación en Henry desarrollé proyectos de análisis de datos, machine learning y visualización utilizando Python, SQL y Power BI, combinando pensamiento lógico, capacidad analítica y comunicación clara de resultados.
 
 ---
 
-### 🎓 Mi experiencia en Henry
+## 🎓 Formación y habilidades
 
-Adquirí competencias sólidas en:
+📊 **Análisis de Datos**
+🐍 Python | 🛠️ SQL | 📈 Power BI | 📑 Excel
 
-📈 **Análisis de datos** | 🧠 **Ciencia de datos** | 📂 **Desarrollo de proyectos**
+🤖 **Ciencia de Datos**
+Pandas | NumPy | Scikit-Learn | Machine Learning | EDA | ETL
 
-Destaco mi capacidad para:
+🗄️ **Bases de Datos y Big Data**
+MySQL | PostgreSQL | Spark | BigQuery
 
-* Colaborar en equipos multidisciplinarios.
-* Aplicar metodologías ágiles (Scrum).
-* Analizar información y comunicar resultados de forma clara.
-* Diseñar soluciones orientadas a la toma de decisiones.
+⚙️ **Desarrollo y Despliegue**
+FastAPI | Docker | Streamlit | Render | Git & GitHub
 
 ---
 
-### 🎯 Proyectos destacados
+## 🎯 Proyectos Destacados
 
 ### 🌐 ConectandoArgentina
 
 Análisis del acceso a internet en Argentina para identificar brechas de conectividad y oportunidades de mejora.
 
+**Resultados principales:**
+
 * Analicé indicadores de conectividad por provincia.
 * Detecté patrones y valores atípicos mediante análisis exploratorio.
 * Diseñé KPIs para monitorear la evolución del acceso a internet.
-* Construí dashboards interactivos en Power BI.
+* Construí dashboards interactivos en Power BI para facilitar la toma de decisiones.
 
-🔗 **Repositorio:** [ConectandoArgentina]((https://github.com/claujara1975/Proyecto_ConectandoArgentina.git))
+🔗 Repositorio: [https://github.com/claujara1975/Proyecto_ConectandoArgentina.git]
 
 ---
 
@@ -46,12 +45,14 @@ Análisis del acceso a internet en Argentina para identificar brechas de conecti
 
 Sistema de recomendación de películas desarrollado con Python y FastAPI.
 
+**Resultados principales:**
+
 * Implementé procesos ETL y análisis exploratorio de datos.
 * Construí un sistema de recomendación basado en similitud.
 * Desarrollé una API para generar recomendaciones personalizadas.
 * Desplegué la solución utilizando Render.
 
-🔗 **Repositorio:** [CineSugerencias]((https://github.com/claujara1975/Proyecto_CineSugerencias.git))
+🔗 Repositorio: [https://github.com/claujara1975/Proyecto_CineSugerencias.git]
 
 ---
 
@@ -59,19 +60,19 @@ Sistema de recomendación de películas desarrollado con Python y FastAPI.
 
 Proyecto grupal orientado al análisis de datos para identificar oportunidades de expansión comercial.
 
+**Resultados principales:**
+
 * Analicé datos de Yelp, Google Maps y variables demográficas.
-* Participé en la integración de fuentes y procesos ETL.
+* Participé en la integración de fuentes de datos y procesos ETL.
 * Colaboré en dashboards y visualizaciones para comunicar hallazgos.
 * Apoyé la identificación de ubicaciones con potencial de crecimiento.
 
-🔗 **Repositorio:** [Datanova]((https://github.com/claujara1975/datapt11_pf_grupo02.git))
+🔗 Repositorio: [https://github.com/claujara1975/datapt11_pf_grupo02.git]
 
 ---
 
-✨ **Me interesa participar en proyectos donde los datos se conviertan en herramientas para comprender problemas, generar insights y apoyar la toma de decisiones.**
+📫 **Contacto**
 
-📫 **Contáctame:**
+📧 Correo: [jaraclaudia892@gmail.com](mailto:jaraclaudia892@gmail.com)
 
-* 📧 **Correo:** [jaraclaudia892@gmail.com](mailto:jaraclaudia892@gmail.com)
-* 💼 **LinkedIn:** [Claudia Jara](https://www.linkedin.com/in/claudia-jara-ya%C3%B1ez-1517361a5/)
-
+💼 LinkedIn: [Claudia Jara](https://www.linkedin.com/in/claudia-jara-ya%C3%B1ez-1517361a5/)
